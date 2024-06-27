@@ -16,7 +16,7 @@ Other Tools: RESTful APIs, JSON Web Tokens (JWT) for authentication, Git for ver
 
 
 Installation
-we can directly use by opening index.html file and start using it
+we can directly use by downloading Zip file and opening index.html file and start using it
 
 
 Usage
